@@ -1,0 +1,13 @@
+# Render deploy config — push this folder to GitHub, then create a free
+# Web Service on render.com from the repo. Render reads this file and
+# sets everything up, including a random API_KEY for you.
+services:
+  - type: web
+    name: crop-price-api
+    runtime: python
+    rootDir: api
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: API_KEY
+        generateValue: true

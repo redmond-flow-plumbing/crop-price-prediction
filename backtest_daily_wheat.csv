@@ -1,0 +1,43 @@
+crop,origin,horizon,model,MAE,RMSE,MAPE_%
+Wheat,2026-10-02,7,Naive,3.71,4.39,1.48
+Wheat,2026-10-02,7,Linear Regression,3.66,4.34,1.46
+Wheat,2026-10-02,7,XGBoost,4.48,5.14,1.79
+Wheat,2026-10-02,7,Chronos,4.46,4.71,1.78
+Wheat,2026-10-02,30,Naive,19.79,23.33,8.86
+Wheat,2026-10-02,30,Linear Regression,20.42,23.91,9.14
+Wheat,2026-10-02,30,XGBoost,19.2,22.11,8.57
+Wheat,2026-10-02,30,Chronos,21.15,24.77,9.46
+Wheat,2026-08-20,7,Naive,14.21,18.85,5.15
+Wheat,2026-08-20,7,Linear Regression,14.55,19.14,5.28
+Wheat,2026-08-20,7,XGBoost,17.92,22.4,6.54
+Wheat,2026-08-20,7,Chronos,15.47,20.66,5.61
+Wheat,2026-08-20,30,Naive,12.46,15.35,4.62
+Wheat,2026-08-20,30,Linear Regression,14.66,17.05,5.46
+Wheat,2026-08-20,30,XGBoost,22.7,24.49,8.53
+Wheat,2026-08-20,30,Chronos,13.88,16.74,5.16
+Wheat,2026-07-09,7,Naive,16.82,18.91,6.85
+Wheat,2026-07-09,7,Linear Regression,17.01,19.11,6.92
+Wheat,2026-07-09,7,XGBoost,18.05,19.93,7.36
+Wheat,2026-07-09,7,Chronos,18.5,20.75,7.53
+Wheat,2026-07-09,30,Naive,17.9,19.5,7.29
+Wheat,2026-07-09,30,Linear Regression,18.32,19.84,7.46
+Wheat,2026-07-09,30,XGBoost,18.65,20.18,7.6
+Wheat,2026-07-09,30,Chronos,20.3,21.8,8.28
+Wheat,2026-05-26,7,Naive,11.06,12.36,5.04
+Wheat,2026-05-26,7,Linear Regression,11.59,12.88,5.28
+Wheat,2026-05-26,7,XGBoost,11.96,13.11,5.44
+Wheat,2026-05-26,30,Naive,14.91,15.71,6.88
+Wheat,2026-05-26,30,Linear Regression,15.19,15.95,7.0
+Wheat,2026-05-26,30,XGBoost,15.82,16.58,7.29
+Wheat,2026-04-13,7,Naive,5.3,5.55,2.41
+Wheat,2026-04-13,7,Linear Regression,3.73,4.07,1.7
+Wheat,2026-04-13,7,XGBoost,8.99,9.25,4.09
+Wheat,2026-04-13,30,Naive,16.01,18.35,6.82
+Wheat,2026-04-13,30,Linear Regression,13.38,15.82,5.69
+Wheat,2026-04-13,30,XGBoost,19.49,21.38,8.34
+Wheat,2026-02-27,7,Naive,5.35,5.9,2.5
+Wheat,2026-02-27,7,Linear Regression,6.04,6.74,2.83
+Wheat,2026-02-27,7,XGBoost,4.66,5.42,2.17
+Wheat,2026-02-27,30,Naive,4.1,4.93,1.88
+Wheat,2026-02-27,30,Linear Regression,4.7,5.61,2.15
+Wheat,2026-02-27,30,XGBoost,7.04,8.28,3.2
